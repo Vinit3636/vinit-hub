@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(204, 245, 245);
+}
+h1
+
+{
+    text-align: center;
+}
+img
+{
+    width: 250px;
+    height: 250px;
+    margin:25px auto;
+    display: block;
+}
+.banner
+{
+    background-color: blueviolet;
+    padding: 30px;
+
+}
+p
+{
+text-align: center;
+color: black;
+font-size: 100px;
+font-weight: 200;
+}

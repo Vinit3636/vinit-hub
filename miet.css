@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(152, 226, 226);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    width: 121px;
+    display: block;
+    
+}
+.banner{
+    background-color: rgb(227, 162, 170);
+    padding: 30px;
+}
